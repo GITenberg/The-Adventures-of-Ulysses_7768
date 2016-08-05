@@ -1,0 +1,30 @@
+_repo: The-Adventures-of-Ulysses_7768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lamb, Charles
+    birthdate: 1775
+    deathdate: 1834
+    gutenberg_agent_id: '293'
+    url: http://www.gutenberg.org/2009/agents/293
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lamb
+description: This is an electronic edition of the complete book complemented by author
+  biography. This book features a table of contents linked to every chapter. The book
+  was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
+  readers. It is formatted to display on all electronic devices including the Kindle,
+  Smartphones and other Mobile Devices with a small display.
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Odysseus, King of Ithaca (Mythological character) -- Juvenile literature'
+- !lcsh 'Homer. Odyssey -- Adaptations'
+- !lcc 'PA'
+- GITenberg
+title: The Adventures of Ulysses
+url: http://www.gutenberg.org/ebooks/7768
